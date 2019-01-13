@@ -108,3 +108,4 @@ venv.bak/
 outlier_datasets/
 
 # ipython slides
+LOF.slides.html
